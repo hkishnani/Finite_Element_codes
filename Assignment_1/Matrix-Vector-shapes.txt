@@ -3,5 +3,6 @@ In this file the shapes of Matrices and Vectors is provided. Submit the report w
 1. System 1 - 20x20
 2. System 2 - 40x40
 3. System 3 - 80x80
-5. System 5 - 160x160
+4. System 4 - 160x160
+5. System 5 - 320x320
 6. System 6 - 320x320
