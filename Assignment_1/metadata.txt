@@ -1,8 +1,0 @@
-M        = [20  , 40   , 80    , 160  , 320  , 320  ]
-
-cond_lim = [5   , 40   , 200   , 15   , 200  , 3.0e6 ]
-cond_val = [4.99, 38.8 , 178.68, 13.05, 15.63, 2.86e6]
-
-sparsity = [ -  , 0.75 , 0.9  , 0.9  , -    , 0.9  ]
-spd      = [True, False, True , True , True , True ]
-diag_mat = [True, False, False, False, True , False]
